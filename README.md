@@ -48,7 +48,7 @@ This is a full-stack MERN authentication starter project that includes:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/mern-auth.git
+git clone https://github.com/princepatel4423d/mern-auth.git
 cd mern-auth
 ```
 
